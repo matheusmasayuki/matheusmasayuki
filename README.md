@@ -1,16 +1,23 @@
-## Hi there 👋
+Olá! 
 
-<!--
-**matheusmasayuki/matheusmasayuki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é Matheus e sou estudante de Engenharia de Software.
 
-Here are some ideas to get you started:
+Sobre mim
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Estudante de Engenharia de Software.
+- Desenvolvendo meus conhecimentos em programação.
+- Aprendendo lógica de programação, banco de dados e desenvolvimento de sistemas.
+- Em busca de oportunidades para crescer na área de tecnologia.
+
+Tecnologias e conhecimentos
+
+- Linguagem C
+- SQL
+- Modelagem de Banco de Dados
+- Git e GitHub
+- JavaScript
+- Python
+
+Objetivo
+
+Construir projetos, desenvolver minhas habilidades e evoluir como profissional de tecnologia.
