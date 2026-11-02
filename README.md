@@ -2,14 +2,14 @@ Olá!
 
 Meu nome é Matheus e sou estudante de Engenharia de Software.
 
-Sobre mim
+Sobre mim:
 
 - Estudante de Engenharia de Software.
 - Desenvolvendo meus conhecimentos em programação.
 - Aprendendo lógica de programação, banco de dados e desenvolvimento de sistemas.
 - Em busca de oportunidades para crescer na área de tecnologia.
 
-Tecnologias e conhecimentos
+Desenvolvendo e estudando:
 
 - Linguagem C
 - SQL
@@ -18,6 +18,10 @@ Tecnologias e conhecimentos
 - JavaScript
 - Python
 
-Objetivo
+Objetivo:
 
 Construir projetos, desenvolver minhas habilidades e evoluir como profissional de tecnologia.
+
+Conecte-se comigo no LinkedIn: 
+
+https://www.linkedin.com/in/matheus-masayuki
